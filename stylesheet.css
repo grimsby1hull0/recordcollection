@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    color: white;
+  }
+
+
+html {
+    background-color: rgb(66, 66, 66);
+}
+
+body {
+    margin: auto 10% auto;
+    background-color: #313939;
+    border-width: 5px;
+    border-style: ridge;
+    border-color: silver;
+}
+
+li {
+    padding-bottom: 20px;
+}
+
+ul {
+    padding: 30px;
+    text-align: left;
+}
+
+#title {
+    text-align: center;
+    
+}
+
+.technics {
+    
+}
+
+h3 {
+    font-size: 14px;
+}
