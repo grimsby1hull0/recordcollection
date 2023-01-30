@@ -22,6 +22,10 @@ li {
     padding-bottom: 20px;
 }
 
+b {
+    font-weight: bold;
+}
+
 ul {
     padding: 30px;
     text-align: left;
